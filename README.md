@@ -1,7 +1,7 @@
 # PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
 
 * * *
-
+简书：https://www.jianshu.com/p/bba722c30541
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AVLoadingIndicatorView-green.svg?style=flat)](https://android-arsenal.com/details/1/2686)
 
 AVLoadingIndicatorView
